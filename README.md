@@ -1,0 +1,3 @@
+# Online regression application
+
+A module that predits the expected completion time for a series of similar tasks, more details in ...
